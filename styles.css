@@ -1,0 +1,130 @@
+#body1 {
+    background-color: #212121;
+    text-align: center;
+}
+
+#unlock {
+    color: #ffffff;
+}
+
+h2 {
+    color: #ffffff;
+    text-align: center;
+}
+
+h5 {
+    color: #ffffff;
+    text-align: center;
+}
+
+#feedback {
+    color: #ffffff;
+    text-align: center;
+}
+
+#homepage {
+    color: #ffffff;
+    display: none;
+}
+
+#homepage {
+    animation: fadeIn ease 6s;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+#footballcard {
+    background-color: #363636;
+    color: #ffffff;
+}
+
+#footballcardtext {
+    color: #ffffff;
+}
+
+#homelogo {
+    color: #116df6;
+}
+
+#homebutton {
+    background-color: #ffffff;
+    color: #116df6;
+}
+
+#homebutton1 {
+    background-color: #ffffff;
+    color: #116df6;
+}
+
+#footballtitle {
+    color: #ffffff;
+    text-align: center;
+}
+
+#nft {
+    align-items: center;
+    justify-content: center;
+}
+
+#body3 {
+    text-align: center;
+    color: #ffffff;
+    background-color: #212121;
+}
+
+#wink {
+    color: #ffffff;
+}
+
+#slideone {
+    color: #000;
+}
+
+#slidetwo {
+    color: #ffffff;
+    text-shadow: 2px 2px #000;
+}
+
+#slidethree {
+    color: #000;
+}
+
+#slidethree1 {
+    color: #ffffff;
+    text-shadow: 2px 2px #000;
+}
+
+#emoji {
+    color: #ffffff;
+}
+
+#intro {
+    justify-content: center;
+    align-items: center;
+    display: none;
+    color: #ffffff;
+}
+
+#intro1 {
+    width: 0ch;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: text 6s steps(32);
+    border-right: 1px solid white;
+}
+
+@keyframes text{
+    0% {
+        width: 0ch;
+    }
+    50% {
+        width: 47%;
+    }
+}
