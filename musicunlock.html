@@ -18,7 +18,23 @@
         <title>jared mercado - Football</title>
 
     </head>
+    <script>
+        //run script when page has loaded
+        document.addEventListener("DOMContentLoaded", function() {
+            document.querySelector("#check").addEventListener("click", function() {
+                //if correct password is input, redirect to music page
+                let input = document.querySelector("musicunlock");
+                if (input.value === "coding101"){
+                    location.replace("https://jaredmercado.github.io/music.html")}
+            })
+        })
+    </script>
     <body>
+        <pre></pre>
+        <pre></pre>
+        <pre></pre>
+        <pre></pre>
+        <input style="vertical-align: -2px;" type="text" id="musicunlock" placeholder=""></input>
       
     </body>
 </html>
