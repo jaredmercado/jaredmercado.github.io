@@ -171,3 +171,17 @@ h5 {
 #bob {
     background-color: #576680;
 }
+
+.footer{
+    background-color: #d3d3d3;
+    color: black;
+    margin-top: 30px;
+    padding-top: 20px;
+    bottom: 0px;
+    width: 100%;
+}
+
+#spotify {
+    width: 40px;
+    height: 40px;
+}
