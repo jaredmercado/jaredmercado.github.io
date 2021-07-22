@@ -134,3 +134,40 @@ h5 {
         width: 50%;
     }
 }
+
+#spotifylogo {
+    width: 28px;
+    height: 28px;
+}
+
+.centered {
+    text-align: center;
+}
+
+#ty {
+    background-color: #CD7750;
+}
+
+#mac {
+    background-color: #28BDE5;
+}
+
+#frank {
+    background-color: #C6D2AA;
+}
+
+#kali {
+    background-color: #175200;
+}
+
+#roc {
+    background-color: #c87114;
+}
+
+#kendrick {
+    background-color: #284264;
+}
+
+#bob {
+    background-color: #576680;
+}
