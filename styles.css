@@ -150,6 +150,9 @@ h5 {
 
 #mac {
     background-color: #28BDE5;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 #frank {
@@ -182,6 +185,71 @@ h5 {
 }
 
 #spotify {
-    width: 40px;
-    height: 40px;
+    width: 35px;
+    height: 35px;
+}
+
+#nobuo {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #8c9e9b;
+}
+
+#poll {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#dmode {
+    background-color: #9894a5;
+}
+
+#polo {
+    background-color: #6b5a50;
+}
+
+#dpr {
+    background-color: #6a6042;
+}
+
+#rhcp {
+    background-color: #82371c;
+}
+
+#yo {
+    background-color: #066ab0;
+}
+
+#fb {
+    background-color: #fb6916;
+}
+
+#swim {
+    background-color: #da9fa5;
+}
+
+#circles {
+    background-color: #9c9c9c;
+}
+
+#mm {
+    background-color: #445c4c;
+}
+
+#cb {
+    background-color: #42a8bf;
+}
+
+#bssm {
+    background-color: #99463a;
+}
+
+#z {
+    background-color: #d2b26b;
+}
+
+#hof {
+    background-color: #562418;
 }
